@@ -34,7 +34,10 @@ This tool is ideal for cybersecurity professionals, ethical hackers, and learner
 
 ### Usage
 **Prepare Username and Password Files:**
-
+### Note: You can add your username and password files in tool folder by following command.
+```
+sdcard$ cp username.txt password.txt /path/to/brutz
+```
 Create a plain text file for usernames and passwords, each entry on a new line. Example:
 usernames.txt:
 ```
