@@ -1,6 +1,6 @@
 # BruteZ - Multi-Service Brute Force Tool
 
-![BruteZ Banner]()
+![BruteZ Banner](brutz.png)
 
 ## Introduction
 BruteZ is a multi-service brute-force tool designed for ethical penetration testing. It supports brute-forcing the following services:
