@@ -5,7 +5,6 @@
 ## Introduction
 BruteZ is a multi-service brute-force tool designed for ethical penetration testing. It supports brute-forcing the following services:
 - **FTP**
-- **SSH**
 - **Telnet**
 
 This tool is ideal for cybersecurity professionals, ethical hackers, and learners looking to practice or test password security in a controlled environment.
@@ -27,11 +26,8 @@ This tool is ideal for cybersecurity professionals, ethical hackers, and learner
    ```bash
    git clone https://github.com/techcorp/brutz.git
    cd brutz
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the tool:
+
+2. Run the tool:
    ```bash
    python brutz.py
    ```
@@ -56,7 +52,7 @@ Run the script:
 python3 brutez.py
 ```
 **Select Attack Method:**
-Choose the target service (FTP, SSH, or Telnet) and provide the required inputs:
+Choose the target service (FTP, Telnet) and provide the required inputs:
 ```
 Target IP/Hostname.
 Paths to username and password files.
