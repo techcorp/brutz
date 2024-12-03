@@ -28,13 +28,13 @@ This tool is ideal for cybersecurity professionals, ethical hackers, and learner
    git clone https://github.com/TechnicalCorp/BruteZ.git
    cd BruteZ
 2. Install the required dependencies:
-```
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 3. Run the tool:
-```
-python3 brutez.py
-```
+   ```bash
+   python3 brutez.py
+   ```
 
 ### Usage
 **Prepare Username and Password Files:**
