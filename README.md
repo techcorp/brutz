@@ -25,15 +25,15 @@ This tool is ideal for cybersecurity professionals, ethical hackers, and learner
 ### Steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TechnicalCorp/BruteZ.git
-   cd BruteZ
+   git clone https://github.com/techcorp/brutz.git
+   cd brutz
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 3. Run the tool:
    ```bash
-   python3 brutez.py
+   python brutz.py
    ```
 
 ### Usage
